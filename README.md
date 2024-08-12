@@ -8,13 +8,13 @@ This repository contains Jupyter Notebooks designed for data analysis using Pyth
 ## Notebooks
 
 ### 1. Diamonds_and_FIFA_Data.ipynb
-This notebook focuses on analyzing two datasets: a diamonds dataset and a FIFA player dataset. The analysis includes data cleaning, exploratory data analysis (EDA), and the application of two Classification ML models: KNN and Decision Tree
+This notebook focuses on analyzing two datasets: a diamonds dataset and a FIFA player dataset. The analysis includes data cleaning, exploratory data analysis (EDA), and the application of two basic Classification models: KNN and Decision Tree.
 
 ### 2. Marvel,_Earthquakes_and_International_football_Data.ipynb
 In this notebook, we explore three different datasets: Marvel character data, earthquake data, and international football data. The analysis covers data visualization, statistical analysis, and the use of machine learning techniques to gain insights from the data.
 
 ### 3. Twitter_Data.ipynb
-This notebook is dedicated to analyzing Twitter data. It includes text processing, sentiment analysis using different techniques such as Regex
+This notebook is dedicated to analyzing Twitter data. It includes text processing, sentiment analysis using different techniques such as Regex.
 
 ## Features
 
