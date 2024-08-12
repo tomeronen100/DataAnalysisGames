@@ -1,4 +1,3 @@
-+++
 # Data Analyst with Python and Colab Project
 
 ## Overview
